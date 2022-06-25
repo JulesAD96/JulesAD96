@@ -5,3 +5,5 @@ Backend developer I develop web applications with PHP, Laravel, Python, Django,
 but I'm not limited to the backend I also have frontend skills on React.js. 
 
 I currently work at <a href='https://github.com/wetillix'>Wetillix<a/> as a backend developer.
+  
+  ![Jules's github activity graph](https://activity-graph.herokuapp.com/graph?username=JulesAD96&theme=dracula)
