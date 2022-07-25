@@ -18,7 +18,6 @@ Currently laravel backend developer at <a href='https://github.com/wetillix'>Wet
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="REACT" alt="REACT" width="40"  height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="40"  height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MONGODB" alt="MONGODB" width="40"  height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Express" alt="Express" width="40"  height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40"  height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40"  height="40"/>&nbsp;
 </div>
