@@ -6,6 +6,8 @@ Code is art, the funny thing is that end users don't care about our code, they w
 
 Currently laravel backend developer at <a href='https://github.com/wetillix'>Wetillix<a/> a software engineering company ofran of technology solutions.
 
+[![Jules's github stats](https://github-readme-stats.vercel.app/api?username=JulesAD96&count_private=true&show_icons=true&theme=synthwave)](https://github.com/JulesAD96/github-readme-stats)
+  
 ## Stack
 <div>
   
