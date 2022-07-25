@@ -6,8 +6,6 @@ Code is art, the funny thing is that end users don't care about our code, they w
 
 Currently laravel backend developer at <a href='https://github.com/wetillix'>Wetillix<a/> a software engineering company ofran of technology solutions.
 
-![Jules's github activity graph](https://activity-graph.herokuapp.com/graph?username=JulesAD96&theme=dracula)
-
 ## Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40"  height="40"/>&nbsp;
